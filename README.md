@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Raghavendra Shet<br><br>iOS Developer<br><br>🌱 I’m currently learning SwiftUI and Objective- C.<br>📫 How to reach me raghushet099@gmail.com<br>
+Hi 👋, I'm Raghavendra Shet<br><br>iOS Developer<br><br>🌱 I’m currently learning SwiftUI.<br>📫 How to reach me raghushet099@gmail.com<br>
 
 
 ## 🌐 Socials:
